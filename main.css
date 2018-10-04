@@ -1,0 +1,35 @@
+h1 {
+    color :Black;
+    font-family : cursive
+  }
+  h2 {
+    color :Black;
+    font-family : cursive
+  }
+  ul {
+    color : black;
+    font-family : Fantasy;
+    font-weight: 900
+    }
+  .container {
+    width: 800px;
+  }
+  .skills {
+    width: 400px;
+    padding: 20px 20px 30px 20px;
+    float: left;
+    border-style: double;  
+    }
+  .experience {
+    width: 300px;
+    padding: 10px;
+    float: right;
+    border-style: double;
+    }
+  .education {
+    width: 300px;
+    padding: 10px;
+    float: right;
+    border-style: double;
+    margin-top: 10px
+    }
